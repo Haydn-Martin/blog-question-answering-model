@@ -1,0 +1,9 @@
+# Virtual environment
+venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python .idea/
+.idea/
+
