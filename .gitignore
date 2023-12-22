@@ -7,3 +7,5 @@ venv/
 # Python .idea/
 .idea/
 
+# Articles text
+ArticleStore/
