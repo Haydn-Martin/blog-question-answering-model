@@ -1,5 +1,5 @@
 # blog-question-answering-model
-Using ML to create the ability to query the information on my (old) (blog)[https://www.perpetualprudence.com/].
+Using ML to create the ability to query the information on my (old) [blog](https://www.perpetualprudence.com/).
 
 ## Version 1 - December 2023
 
